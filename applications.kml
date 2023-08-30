@@ -34,5 +34,14 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>31.0327569200904,-29.8854819013026</coordinates></Point>
   </Placemark>
+  <Placemark>
+	<name>Test 4</name>
+	<ExtendedData><SchemaData schemaUrl="#applications">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="muni">Test</SimpleData>
+		<SimpleData name="status">Test</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.0327569200904,-25.8854819013026</coordinates></Point>
+  </Placemark>
 </Folder>
 </Document></kml>
